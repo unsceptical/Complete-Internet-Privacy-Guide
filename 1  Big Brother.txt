@@ -24,7 +24,6 @@ However it will not protect you against physical screen-logging, key-logging and
 You can check for physical surveillance using anti-spy detectors, however beware that purchasing these will raise suspicion by itself. 
 
 
-
 Your activity history, decisions, preferences & ... on every website and application is stored on their server, signed with your digital identity, traded & ultimately sent to be aligned & merged with other data on data management platforms to form elaborate profiles (easily personally identifiable), analyzed to generate & add even more complicated data and then stored or traded again.
 This happens regardless of what “party” the user data is collected from or for.
 Essentially, there is no difference between first, second or third party tracking as far as large corporations or major data management platforms are concerned. 
